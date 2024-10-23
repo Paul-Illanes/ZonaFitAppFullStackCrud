@@ -1,0 +1,3 @@
+[submodule "clientela-app"]
+	path = clientela-app
+	url = https://github.com/Paul-Illanes/ZonaFitAppFullStackCrud.git
